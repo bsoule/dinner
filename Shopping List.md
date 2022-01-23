@@ -1,38 +1,38 @@
 Shopping List
 
 ## Produce
-- [ ] arugala / salad mix
-- [ ] scallion
-- [ ] tomato (cherry maybe?)
-- [ ] broccoli (3 lbs)
-- [ ] red bell pepper (3)
-- [ ] green bell pepper (3)
-- [ ] zucchini (2)
-- [ ] onion (2)
-- [ ] lemon (2)
-- [ ] acorn squash (4)
-- [ ] fruit
-- [ ] baby carrots
-- [ ] romaine
+- [x] arugala / salad mix
+- [x] scallion
+- [x] tomato (cherry maybe?)
+- [x] broccoli (3 lbs)
+- [x] red bell pepper (3)
+- [x] green bell pepper (3)
+- [x] zucchini (2)
+- [x] onion (2)
+- [x] lemon (2)
+- [x] acorn squash (4)
+- [x] fruit
+- [x] baby carrots
+- [x] romaine
 
 ## Pantry
-- [ ] polenta (1 cup)
-- [ ] black beans (2 can)
-- [ ] pik-a-peppa sauce
-- [ ] can of whole tomatoes (28 oz can)
-- [ ] bread/roll/frybread
-- [ ] sandwich bread
-- [ ] chickpeas (2 cans)
-- [ ] cocoa
-- [ ] powdered sugar
+- [x] polenta (1 cup)
+- [x] black beans (2 can)
+- [x] pik-a-peppa sauce
+- [x] can of whole tomatoes (28 oz can)
+- [x] bread/roll/frybread
+- [x] sandwich bread
+- [x] chickpeas (2 cans)
+- [x] cocoa
+- [x] powdered sugar
 
 
 ## Eggs & dairy
-- [ ] eggs
-- [ ] cheddar cheese 
-- [ ] feta cheese (6 oz)
-- [ ] greek yogurt (1 c)
-- [ ] baby bell
+- [x] eggs
+- [x] cheddar cheese 
+- [x] feta cheese (6 oz)
+- [x] greek yogurt (1 c)
+- [x] baby bell
 
 ## Other
-- [ ] tempeh
+- [x] tempeh
