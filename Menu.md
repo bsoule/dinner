@@ -18,7 +18,7 @@
 	- lemon (1)
 	- olive oil
 	- salt & pepper
-3. [[broccoli & polenta (184 tssg)]]
+3. [[broccoli & polenta (184 tssg)]] & tempeh
 	- broccoli (3 lbs)
 	- garlic (6+ cloves)
 	- polenta (1 cup)
@@ -26,6 +26,7 @@
 	- lemon (1)
 	- parmesan (4 oz)
 	- 2 tbsp unsalted butter
+	- tempeh
 4. [[Bobam-style black beans and rice]]
 	- brown rice
 	- black beans (2 can)
