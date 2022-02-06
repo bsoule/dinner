@@ -1,3 +1,10 @@
+---
+title: Lime Cake
+has_children: false
+has_toc: false
+parent: Recipes
+---
+
 ## Lime simple syrup
 - 1 cup water
 - 1 cup sugar

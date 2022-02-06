@@ -1,3 +1,10 @@
+---
+title: Broccoli & Polenta (184 tssg)
+has_children: false
+has_toc: false
+parent: Recipes
+---
+
 See pp 184 of That Sounds So Good
 
 Stuff:

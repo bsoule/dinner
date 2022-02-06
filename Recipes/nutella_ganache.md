@@ -1,3 +1,10 @@
+---
+title: Nutella Ganache
+has_children: false
+has_toc: false
+parent: Recipes
+---
+
 # Nutella Ganache: 4 Ways!
 
 ![Silky Nutella Ganache recipe on queensleeappetit.com](https://www.queensleeappetit.com/wp-content/uploads/2017/06/Nutella-Ganache-Recipe-on-queensleeappetit.com-8.jpg)
