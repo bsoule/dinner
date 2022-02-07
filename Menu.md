@@ -1,4 +1,91 @@
 # Welcome to your Dinner
+## 2022-02-07
+### 1. Monday leftovers
+### 2. Take-out Tuesday
+### 3. Wednesday burgers
+burgers:
+- buns
+- ground beef
+- impossible
+- condiments
+- pickles
+
+salad:
+- romaine
+- cucumber
+
+### 4. Thursday soup
+mashed potatoes, gravy, and brussels sprouts
+- potatoes
+- brussels sprouts
+
+**mushroom gravy**
+- 2 tablespoons [extra-virgin olive oil](https://amzn.to/2Mm3S0m)
+- 1 shallot, finely chopped (⅓ cup)
+- 16 ounces cremini mushrooms, sliced
+- ½ tablespoon tamari
+- 2 garlic cloves, minced
+- 1½ tablespoons fresh thyme leaves
+- ½ tablespoon chopped rosemary
+- ¼ cup all-purpose flour
+- 3 cups [vegetable broth](https://amzn.to/3j8GWhd)
+- Sea salt and freshly ground black pepper
+
+
+### 5. Friday fish tacos & freezer veggies
+fish tacos:
+- white fish
+- corn tortillas
+- sour cream for crema
+- 1 jalapeno
+
+slaw: (winter slaw w/lemon orange dressing NYT 183)
+- 1 lemon
+- 1 orange
+- olive oil
+- water
+- black pepper
+- red pepper flakes
+- salt
+- scallion greens
+- 4 C shredded napa cabbage
+- 1 C thinly sliced red bell pepper
+
+
+### 6. Saturday soup & tomatoes
+**albondingas soup (pp 26 moosewood daily special (mds))
+oil**
+- 1 C chopped onions
+- 4 garlic cloves
+- 2 carrots, chopped
+- 2 celery stalks, diced
+- 4 C thinly sliced potatoes
+- 8 C water
+- 1 tsp saffron threads
+- 1 tsp paprika
+- 2 tsp salt
+- 2 tbsp chopped fresh cilantro
+
+**albondingas**
+- 1 small onion chopped 
+- 2 garlic cloves
+- 2 C fresh bread crumbs 
+- 3 tbsp chopped fresh parsley
+- 1/2 tsp salt
+- 2 eggs (or 3 if using store-bought or dry-toasted bread crumbs)
+- a handful of all purpose flour
+
+**tomatoes with thyme and fried capers (tssg 125)**
+- 2.5 lbs tomatoes
+- 1 tsp flaky salt
+- 2 bushy sprigs thyme (~2 tbsp leaves)
+- 2 tbsp capers
+- 1/4 C olive oil
+- 1 lemon
+
+### 7. Sunday
+
+
 ## 2022-01-28
 ### 1. [Japanese curry](https://www.justonecookbook.com/vegetarian-japanese-curry/)
 curry:
@@ -42,10 +129,10 @@ japanese curry roux:
 - ~12 corn tortillas
 
 ### 3. chickpea stew (nyt 162)
-4 cloves garlic
-1 large yellow onion
-2 inch piece of ginger
-1 1/2 tsp ground turmeric
+- 4 cloves garlic
+- 1 large yellow onion
+- 2 inch piece of ginger
+- 1 1/2 tsp ground turmeric
 1 tsp crushed red pepper
 2 cans chickpeas
 2 cans coconut milk
