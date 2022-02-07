@@ -1,3 +1,10 @@
+---
+title: Shakshuka with feta (683 nyt)
+has_children: false
+has_toc: false
+parent: Recipes
+---
+
 See page 683 of NYT
 
 ## Stuff

@@ -1,3 +1,10 @@
+---
+title: Lemony Yogurt Sauce (276 tssg)
+has_children: false
+has_toc: false
+parent: Recipes
+---
+
 See page 276 of That sounds so good
 
 ## Stuff

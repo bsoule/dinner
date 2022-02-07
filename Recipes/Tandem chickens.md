@@ -1,3 +1,10 @@
+---
+title: Tandem Chickens (137 tssg)
+has_children: false
+has_toc: false
+parent: Recipes
+---
+
 See pp 137 of That sounds so good
 
 ## Stuff
