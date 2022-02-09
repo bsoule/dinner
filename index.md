@@ -86,6 +86,8 @@ oil**
 ### 7. Sunday
 
 
+<details>
+<summary>Archived menus</summary>
 ## 2022-01-28
 ### 1. [Japanese curry](https://www.justonecookbook.com/vegetarian-japanese-curry/)
 curry:
@@ -166,7 +168,6 @@ salad
 ### 6. potstickers & freezer veggies
 
 ## 2022-01-24
-<details>
 1. [[Tandem chickens]] & leftovers & salad
 	- two chickens
 	- romaine
@@ -214,4 +215,4 @@ salad
 	- scallion
 	- bell pepper
 	- cheese
-	</details>
+</details>
