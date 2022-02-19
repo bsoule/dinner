@@ -1,4 +1,122 @@
 # Welcome to your Dinner
+## 2022-02-19
+### Lefse & meatballs
+Lefse:
+Meatballs:
+- 2 lbs impossible
+- salt, pepper, cayenne
+- 2 tsp basil
+- 1/2 tsp nutmeg
+- 3 green onions
+- 1 egg
+- 2 crushed garlic cloves
+- lemon juice
+- 1/4 c beer
+- 1/4 C broth
+- 1 tsp lemon juice
+- 1 tsp brown sugar
+- parmesan
+- honey glazed carrots
+
+Brussels:
+
+
+### Rao's meatballs & red sauce
+Meatballs (NYT 368)
+Sauce:
+- 1/4 C olive oil
+- 2 oz salt pork thinly sliced
+- 3 tbsp minced onion
+- 2 cloves garlic
+- 2 28 oz cans italian crushed tomatoes
+- 6 basil leaves
+- pinch oregano
+- salt & pepper
+Meatballs:
+- 1 lb lean ground beef
+- 1/2 lb ground veal
+- 1/2 lb ground pork
+- 2 large eggs
+- 1 C grated pecorino romano
+- 1.5 tbsp flat leaf parsley
+- 2 garlic cloves
+- salt & pepper
+- 2 C fine dried bread crumbs
+- 2 C water
+- 1 C olive oil
+
+Salad 
+Garlic bread (fry bread or otherwise)
+
+### dumpling stew
+Curried root vegetable stew with dumplings (nyt 238): 
+Serves 4
+- 1 tbsp butter
+- 1 large onion
+- 6 cloves garlic
+- 1 tbsp curry powder
+- 8 C vegetable broth
+- 4 medium carrots
+- 4 large parsnips
+- 2 small celery root
+- 2 medium sweet potato
+- 6 tbsp flour
+- 4 tsp salt
+- 2 tbsp flat leaf parsley
+Dumplings:
+- 2 C flour
+- 1 tbsp baking powder
+- 1.5 tsp salt
+- 1 tsp ground mace (or nutmeg)
+- 4 tbsp cold butter
+- 1/2 C dried currants
+- 3/4 C whole milk
+
+Olive oil & apple cider cake (NYT pp 823)
+- 8 apples
+- 1 C apple cider
+- 3 C flour
+- 1.5 tsp baking powder
+- 1/4 tsp salt
+- 5 large eggs
+- 1.5 C sugar
+- 1 C extra virgin olive oil
+- 1 C heavy cream (optional)
+
+### Simple stir fry
+- 4 bell pepper 
+- scallions
+- 2 packs mushrooms (fancy?)
+- carrots
+- eggplant?
+- 2 tofu
+- brown rice
+- pickapeppa
+
+### Frittata
+- 1 thing of mushrooms
+- 2 bell peppers 
+- 1 leek
+- zucchini
+- chopped spinach or arugula or other leafy green
+- fresh basil
+- 4 or 5 eggs
+- 1/4 lb fontina cheese grated or sliced
+- fry bed
+- salad
+
+### chickpea quinoa bowls
+- chickpeas
+- quinoa
+- cucumber & tomato salad
+- good black olives
+- hummus
+- harrissa sour cream sauce
+
+
+<details>
+<summary>Archived menus</summary>
+
 ## 2022-02-07
 ### 1. Monday leftovers
 ### 2. Take-out Tuesday
@@ -86,8 +204,6 @@ oil**
 ### 7. Sunday
 
 
-<details>
-<summary>Archived menus</summary>
 ## 2022-01-28
 ### 1. [Japanese curry](https://www.justonecookbook.com/vegetarian-japanese-curry/)
 curry:
