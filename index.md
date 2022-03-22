@@ -1,4 +1,7 @@
 # Welcome to your Dinner
+
+<h2><a href="/dinner/Lists/2022-03-21">2022-03-21</a></h2>
+
 ## 2022-02-19
 ### Lefse & meatballs
 Lefse:
@@ -114,8 +117,6 @@ Olive oil & apple cider cake (NYT pp 823)
 - harrissa sour cream sauce
 
 
-<details>
-<summary>Archived menus</summary>
 
 ## 2022-02-07
 ### 1. Monday leftovers
@@ -331,4 +332,4 @@ salad
 	- scallion
 	- bell pepper
 	- cheese
-</details>
+
