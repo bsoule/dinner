@@ -1,3 +1,10 @@
+---
+title: Macaron extravaganza
+has_children: false
+has_toc: false
+parent: Recipes
+---
+
 ## shopping
 - almond flour
 - eggs
