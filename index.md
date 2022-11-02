@@ -1,6 +1,6 @@
 # Welcome to your Dinner
 
-## <a href="/dinner/Lists/2022-05-26">Current Menu</a>
+## <a href="/dinner/Lists/2022-10-17">Current Menu</a>
 
 ## 2022-02-19
 ### Lefse & meatballs
