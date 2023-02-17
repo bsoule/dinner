@@ -1,3 +1,10 @@
+---
+title: Apple Carrot bread
+has_children: false
+has_toc: false
+parent: Recipes
+---
+
 # Apple Carrot Bread
 
 ### INGREDIENTS
